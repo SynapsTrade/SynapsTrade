@@ -19,7 +19,6 @@ We provide solutions for both retail and institutional use, including:
 ### 🔗 Official Channels
 * **Website:** [synapstrade.com](https://synapstrade.com)
 * **Media & Demos:** [YouTube](https://www.youtube.com/channel/UC3_RN14vnETEwzjduWp694A)
-* **Marketplace Profiles:** [Platform_market](https://www.mql5.com/en/users/klecher/seller)
 
 ---
 *Disclaimer: SynapsTrade is a software development entity. All tools are provided for operational purposes. Users assume full responsibility for risk management and financial results.*
